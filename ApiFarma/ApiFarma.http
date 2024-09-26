@@ -1,0 +1,6 @@
+@ApiFarma_HostAddress = http://localhost:5226
+
+GET {{ApiFarma_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
